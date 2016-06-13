@@ -1,6 +1,7 @@
 # KMeanClustering
 
 This program is written in MATLAB and creates k clusters according to euclidean and spearman distance on genetic and hereditary disease dataset with visualization. Their are different classes for this program briefly explained below:
+
 1. genes.m    : To preprocess genetic dataset.
 2. diseases.m : To preprocess disease dataset.
 3. Knn.m      : Main function which performs k mean cluster. It acts as wrapper and interact with other functions.
